@@ -1,6 +1,6 @@
 # Orbital Mechanics Visualizer
 
-A Python-based simulation demonstrating satellite motion under gravitational attraction.
+A Python-based orbital mechanics simulator that models satellite motion under gravity and visualizes orbital trajectories through both static and animated simulations. Implemented numerical physics calculations using NumPy and created interactive visualizations with Matplotlib to demonstrate core aerospace engineering concepts.
 
 ## Features
 
