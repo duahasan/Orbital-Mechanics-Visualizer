@@ -1,17 +1,19 @@
-"name": "python"
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
     }
   },
   "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/duahasan/Orbital-Mechanics-Visualizer/blob/main/Orbital_Mechanics_Visualizer.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
     {
       "cell_type": "code",
       "source": [
@@ -22,7 +24,7 @@
       "metadata": {
         "id": "GEog0xU37mvK"
       },
-      "execution_count": 75,
+      "execution_count": 7,
       "outputs": []
     },
     {
@@ -34,7 +36,7 @@
       "metadata": {
         "id": "DaFUh5n28GPC"
       },
-      "execution_count": 76,
+      "execution_count": 8,
       "outputs": []
     },
     {
@@ -52,7 +54,7 @@
       "metadata": {
         "id": "ZkkG_pSM8dXa"
       },
-      "execution_count": 77,
+      "execution_count": 9,
       "outputs": []
     },
     {
@@ -63,7 +65,7 @@
       "metadata": {
         "id": "Gw8lL9nr8741"
       },
-      "execution_count": 78,
+      "execution_count": 10,
       "outputs": []
     },
     {
@@ -91,7 +93,7 @@
       "metadata": {
         "id": "J4duTJAZ8_is"
       },
-      "execution_count": 79,
+      "execution_count": 11,
       "outputs": []
     },
     {
@@ -120,9 +122,9 @@
           "height": 617
         },
         "id": "6XM97zlA_-o9",
-        "outputId": "de9b8abc-0b3e-4b12-83e5-3e7aeb28e385"
+        "outputId": "22257d22-c807-4072-ef05-230cb5ad8b27"
       },
-      "execution_count": 80,
+      "execution_count": 12,
       "outputs": [
         {
           "output_type": "display_data",
@@ -142,7 +144,7 @@
       "metadata": {
         "id": "UaBPnAJQEV1O"
       },
-      "execution_count": 80,
+      "execution_count": 12,
       "outputs": []
     }
   ]
