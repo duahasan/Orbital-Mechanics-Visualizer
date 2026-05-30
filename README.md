@@ -21,4 +21,4 @@ A Python-based simulation demonstrating satellite motion under gravitational att
 
 ## Animated Orbit Plot
 
-![Orbit Simulation](Orbit.gif)
+![Orbit Simulation](orbit.gif)
