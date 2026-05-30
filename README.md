@@ -18,3 +18,7 @@ A Python-based simulation demonstrating satellite motion under gravitational att
 ## Static Orbit Plot
 
 ![Orbit Simulation](Orbit.png)
+
+## Animated Orbit Plot
+
+![Orbit Simulation](Orbit.gif)
