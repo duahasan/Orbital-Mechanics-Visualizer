@@ -40,7 +40,7 @@ cd orbital-mechanics-visualizer
 pip install -r requirements.txt
 ```
 
-### Run the Static Version
+### Run the Animated Version
 
 ```bash
 python main.py
