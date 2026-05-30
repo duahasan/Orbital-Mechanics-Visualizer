@@ -17,4 +17,4 @@ A Python-based simulation demonstrating satellite motion under gravitational att
 
 ## Sample Output
 
-![Orbit Simulation](orbit.png)
+![Orbit Simulation](Orbit.png)
