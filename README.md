@@ -15,6 +15,6 @@ A Python-based simulation demonstrating satellite motion under gravitational att
 - NumPy
 - Matplotlib
 
-## Sample Output
+## Static Orbit Plot
 
 ![Orbit Simulation](Orbit.png)
